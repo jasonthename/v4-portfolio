@@ -5,7 +5,7 @@ module.exports = {
     title: 'Jason Jacobs',
     description:
       'Jason Jacobs is a Cybersecurity Engineer specializing in Offensive Security and Incident Response for government and corporate cyber incidents.',
-    siteUrl: 'https://null.com', // No trailing slash allowed!
+    siteUrl: 'https://jason-jacobs.dev', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@null',
   },
