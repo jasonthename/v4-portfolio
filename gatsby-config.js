@@ -7,7 +7,7 @@ module.exports = {
       'Jason Jacobs is a Cybersecurity Engineer specializing in Offensive Security and Incident Response for government and corporate cyber incidents.',
     siteUrl: 'https://jason-jacobs.dev', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@null',
+    twitterUsername: '@0xjason_jacobs',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
