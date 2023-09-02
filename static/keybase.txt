@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jasonthename
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jason-jacobs.dev
+  * I am jasonthename (https://keybase.io/jasonthename) on keybase.
+  * I have a public key with fingerprint 1A0D E4A8 F61C 9851 6AAA  25BF 8C29 8915 81C0 5884
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d004316ed437ddec07a2c58559fd832dedcb912e7b6bd9e90180ed5052672b120a",
+      "fingerprint": "1a0de4a8f61c98516aaa25bf8c29891581c05884",
+      "host": "keybase.io",
+      "key_id": "8c29891581c05884",
+      "kid": "0101d004316ed437ddec07a2c58559fd832dedcb912e7b6bd9e90180ed5052672b120a",
+      "uid": "af2d31be250946f93a2bc2eca3f8f319",
+      "username": "jasonthename"
+    },
+    "service": {
+      "hostname": "jason-jacobs.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1693664804,
+  "expire_in": 157680000,
+  "prev": "278e69fdc008d09ae2353172af222c3552069eeb98316c4effcb8960beb50c59",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIoAnicrVJ7aI5RHP7mMsxuEX25JG/msj5z3vNevnO+1EwuERJlbvXt3N5v7y7v
++/ned7M14g+XCS2sZDVziZRySSNZbCIxy6QNDVGIQkokYc67KH/40/nndM7v+T2/
+53n63cgaHMpIy9l5OsGW4atpnR0tVSH+acGUOoW6vFaJ1SnlYuASFVx4frzc5kpM
+ASpQOQC6ppqC61qUc8FAlEBmIMPAFkca5IIzilUootSkHAsMVAQEN4ABzSikKgRE
+iSiW7SREKpmyHV/SqgRwoRNkmSrDyFBNQgg0qIUYxAirBlIZMBDSZWOp6wUdUhwl
+niiwXfknH/EBef/A/2fdVQN0xIJcU6mABsC6aWGNQMqgYESzkKWpOAB6IuWQSiHR
+ZcRzHb9UDDw3RxRZqbaZCMIN3PyNmllGmEu9Ai6qJUcy5foucytktdT3k14s6PZr
+kwF8o6Dx30Rxajtc5ik7qkXKs11HiakSyXw7YFZNrJmmjoAeUURN0k6JuB0gjKiJ
+gDzBHDkupsAoEqYMgwGAOMBEQM3Q1CiUbiFkmmFAYGIhKEYyRqYLy2IUYRNQQQ3A
+jMC1JzY4rhIzpUySkJSenXCIX5WSvq+3rx8SSssIpQ8dFOxZKGNE7p/ta6oZ9j3r
+YGjLuIV5iL3/8vlY4/3i4VO1pb3PW5Y0XRjffwuHL5Zdu3Tv6M68+JMeIloPPs1O
+5I7xnm27sKL2Tf7xyWcyO/e070nbkfPjdn/11J5K93x2TmL/7n3z3617dC7yraKo
+cC+dtnjXA7SxO0n1+QeaT7D2SeHxHbNPtR0//zUca9QvtyS/Zr4+VLL4aPfumL41
+/UmkJPxq7fZTNzcNnpFROtaOjrzT3PAiXH/k5MrlqyfUbu4v+tnr9J0uqs+/+/BS
+M+sbVbxqWJvzoW3OxAkNhd0fH3dtskZHdohnPR8qzhx4VdOQlbltyMuufa322Hn1
+RU0rs+sWzfroTO97e+XwwrlrzvLCxl8/Yj+0
+=xwSu
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jasonthename
+
+==================================================================
