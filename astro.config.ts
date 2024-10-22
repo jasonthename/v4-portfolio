@@ -91,7 +91,7 @@ export default defineConfig({
     },
     esbuild: {
       jsx: 'automatic',
-      jsxInject: `import React from 'react'`
+      jsxInject: `import react from '@astrojs/react'`
     }
   },
 });
