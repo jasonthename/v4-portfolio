@@ -85,6 +85,11 @@ export default defineConfig({
       alias: {
         '~': path.resolve(__dirname, './src'),
       },
+      extensions: ['.js', '.jsx', '.ts', '.tsx']
     },
+    esbuild: {
+      jsx: 'automatic',
+      jsxInject: `import React from 'react'`
+    }
   },
 });
