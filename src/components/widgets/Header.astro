@@ -34,8 +34,13 @@ export interface Props {
 
 const {
   id = 'header',
-  links = [],
-  actions = [],
+  links = [
+        { text: 'Home', href: '#' },
+        { text: 'About', href: '#about' },
+        { text: 'Skills', href: '#skills' },
+        { text: 'Blog', href: '#blog' }
+      ],
+  actions = [{ text: 'Request Services', href: '#', class: 'btn' }],
   isSticky = false,
   isDark = false,
   isFullWidth = false,

@@ -1,22 +1,22 @@
 site:
   name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  site: 'https://jason-jacobs.dev'
   base: '/'
   trailingSlash: false
 
-  googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
+  googleSiteVerificationId: PYmQRBNGwbhgyATRyDqTQs7RL_n9W9QokwTlOpzbRI8
 
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
+    default: Jason Jacobs
     template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "\U0001F680 Jason Jacobs, Guyana, Cybersecurity Trainer, Computer Science Research Assistant"
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: Jason Jacobs
     images:
       - url: '~/assets/images/default.png'
         width: 1200
