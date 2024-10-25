@@ -24,6 +24,13 @@ const whenExternalScripts = (items: (() => AstroIntegration) | (() => AstroInteg
 
 export default defineConfig({
   output: 'server',
+  server: {
+		headers: {
+      "Cache-Control": "public, max-age=31536000, immutable",
+      "X-Frame-Options": "SAMEORIGIN",
+      "X-XSS-Protection": "1; mode=block"
+		}
+	},
   adapter: netlify(),
 
   integrations: [
