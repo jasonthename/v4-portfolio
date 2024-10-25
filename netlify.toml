@@ -1,6 +1,6 @@
 [build]
   publish = "dist"
-  command = "npm run build && cp _headers dist/"
+  command = "npm run build"
 
 [build.environment]
   NODE_VERSION = "18.14.1"
